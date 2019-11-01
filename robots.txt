@@ -1,0 +1,3 @@
+﻿# Allow access to all crawlers 
+User-agent: *
+Allow: /
