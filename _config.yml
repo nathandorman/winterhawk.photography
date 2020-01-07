@@ -24,6 +24,8 @@ kramdown:
   input: GFM
 
 #SEO configuration
+type: WebSite
+logo: https://winterhawk.photography/img/logo-full-white-png.png
 
 social:
   name: WinterHawk Photography
