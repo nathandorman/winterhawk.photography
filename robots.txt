@@ -1,3 +1,5 @@
 ﻿# Allow access to all crawlers 
 User-agent: *
 Allow: /
+
+Sitemap: https://winterhawk.photography/sitemap.xml
