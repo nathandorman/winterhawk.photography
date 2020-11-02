@@ -1,1 +1,1 @@
-I've always liked taking pictures. The photos here are my favorites, out of the hundreds I've taken so far. I hope you enjoy them as much as I did taking them.
+Aspiring teenage amateur photographer. I've always liked taking pictures. I hope you enjoy seeing them as much as I did taking them.
